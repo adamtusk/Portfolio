@@ -32,3 +32,7 @@ My name is Adam Tusk. I have 12 years of experience as Project Manager in managi
 
 # My Test Reports
 * [CRM Application Manager - Functional Tests Report](https://bit.ly/3C19v8W)
+
+# My examples of diagrams and decision tables
+# My examples of CSS Selectors and xPaths
+# My projects
