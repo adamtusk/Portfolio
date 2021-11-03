@@ -17,6 +17,7 @@ My name is Adam Tusk. I have 12 years of experience as Project Manager in managi
 * MySQL
 * Python
 * SCRUM
+* Linux
 * Software Testing
 * Creating Test Scenarios 
 * Creating Test Cases
