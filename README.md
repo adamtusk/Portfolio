@@ -30,4 +30,5 @@ My name is Adam Tusk. I have 12 years of experience as Project Manager in managi
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 * [Software Testing Tutorial For Beginners | Manual & Automation Testing | Selenium Training | Edureka](https://www.youtube.com/watch?v=T3q6QcCQZQg)
 
-
+# My Test Reports
+* [CRM Application Manager - Functional Tests Report](https://bit.ly/3C19v8W)
