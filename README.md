@@ -39,6 +39,7 @@ My name is Adam Tusk. I have 12 years of experience as Project Manager in managi
 
 # My examples of Test Reports
 * [CRM Application Manager - Functional Tests Report](https://bit.ly/3C19v8W)
+* [Dolce Gabbana Website - Bug Reports](https://bit.ly/3qAtlVK)
 
 # My examples of diagrams and decision tables
 * [Code Coverage Examples](https://drive.google.com/file/d/1C5ysv_3lyfuwP1F-Hp2MOjDpekKSHjNh/view?usp=sharing)
