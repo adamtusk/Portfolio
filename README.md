@@ -37,9 +37,8 @@ My name is Adam Tusk. I have 12 years of experience as Project Manager in managi
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 * [Software Testing Tutorial For Beginners | Manual & Automation Testing | Selenium Training | Edureka](https://www.youtube.com/watch?v=T3q6QcCQZQg)
 
-# My examples of Test Reports
+# My examples of Test Reports, Diagrams and Decision Tables
 * [CRM Application Manager - Functional Tests Report](https://bit.ly/3C19v8W)
 * [Dolce Gabbana Website - Bug Reports](https://bit.ly/3qAtlVK)
-
-# My examples of diagrams and decision tables
 * [Code Coverage Examples](https://drive.google.com/file/d/1C5ysv_3lyfuwP1F-Hp2MOjDpekKSHjNh/view?usp=sharing)
+
