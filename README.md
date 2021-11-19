@@ -31,7 +31,7 @@ My name is Adam Tusk. I have 12 years of experience as Project Manager in managi
 
 # Courses
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
-* [Learn PostgreSQL Tutorial - Full Course for Beginners](https://youtu.be/qw--VYLpxG4)
+* [Learn PostgreSQL Tutorial - Full Course for Beginners](https://youtu.be/-VO7YjQeG6Y)
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [uTest Academy](https://www.utest.com/)
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
