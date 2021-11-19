@@ -24,6 +24,8 @@ My name is Adam Tusk. I have 12 years of experience as Project Manager in managi
 * Creating Diagrams and Decision Tables
 
 # Groups for knowledge gathering
+* [We Learn SQL](https://www.facebook.com/groups/welearnsql/)
+* [Bazy danych i SQL dla początkujących](https://www.facebook.com/groups/podstawySQL)
 * [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
 * [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
