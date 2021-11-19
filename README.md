@@ -30,11 +30,13 @@ My name is Adam Tusk. I have 12 years of experience as Project Manager in managi
 * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
 
 # Courses
+* [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+* [Learn PostgreSQL Tutorial - Full Course for Beginners](https://youtu.be/qw--VYLpxG4)
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [uTest Academy](https://www.utest.com/)
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 * [HTML Tutorial for Beginners: HTML Crash Course [2021]](https://www.youtube.com/watch?v=qz0aGYrrlhU)
-* [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+* [Learn PostgreSQL Tutorial - Full Course for Beginners](https://youtu.be/qw--VYLpxG4)
 * [Software Testing Tutorial For Beginners | Manual & Automation Testing | Selenium Training | Edureka](https://www.youtube.com/watch?v=T3q6QcCQZQg)
 
 # My examples of Test Reports, Diagrams and Decision Tables
